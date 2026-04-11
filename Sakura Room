@@ -23,4 +23,4 @@ The investigation started with an image file in which the attacker boasted about
 
 From my browser, I simply clicked “View Source” on the image file and saw the attacker's source code and metadata, but what stood out most was their username, “SakuraSnowAngelAiko,” which was completely exposed in the file path.
 
-![Username discovery in source code](https://github.com/Alda3213/THM-Labs/blob/7ed9b651d3dd1140d8083be525149c97a9d7b918/Source%20Code.png)
+![Username discovery in source code](Source Code.png)
