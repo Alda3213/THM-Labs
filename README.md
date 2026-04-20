@@ -1,2 +1,2 @@
 # THM and HTB-Labs
-Collection of Writeups and walkthroughs for TryHackMe labs, focusing on OSINT, Geolocation and security research.
+Collection of Writeups and walkthroughs for TryHackMe labs, focusing on OSINT, CTI and Geolocation and security research.
